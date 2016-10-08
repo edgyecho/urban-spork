@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UrbanSpork/.vs
+/UrbanSpork/src/UrbanSpork/obj/
+/UrbanSpork/src/UrbanSpork/bin/
+/UrbanSpork/src/UrbanSpork/project.lock.json
+/UrbanSpork/src/UrbanSpork/UrbanSpork.xproj.user
